@@ -34,9 +34,12 @@
     background-color: white;
  }
  #dojo {
-    height: 100px;
+    height: 83px;
     display: inline;
-    border: solid black;    
+    border:10px solid #82b4ee;
+    outline: solid black;
+    outline-offset: 0px;
+    background-color: white;
  }
 #ninja {
     height: 100px;
