@@ -1,9 +1,9 @@
  * {
      margin: 5px;
      padding: 5px;
- } 
+} 
  #wrapper {
-     width: 675px;
+     width: 650px;
      background-color: #d5d2ae;
      margin: 0px auto;
  }
@@ -11,12 +11,12 @@
     height: 70px;
     display: inline-block;
     /*background-color: red;*/
-    margin-left: 70px;
+    margin-left: 60px;
  }
  #container {
     display: block;
     margin: 0px auto;
- }
+}
  #git {
     height: 50px;
     width: 100px;
