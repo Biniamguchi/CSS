@@ -1,49 +1,93 @@
-* {
-    margin: 10px;
-    padding: 10px;
-    /* background-color: gray; */
-}
-
-#wrapper {
-    width: 970px;
-    background-color: darkblue;
-    margin: 10px;
-}
-
-#header {
-    background-color: red;
-    /* width: 950px; */
-    height: 50px;
-    margin: 0px auto;
-    display: block;
-}
-
-#container {
-    margin: 0px auto;
-    height: 400px;
-    display: inline-block;
-    /* background-color: brown; */
-}
-
-.home {
-    height: 350px;
-    width: 250px;
-    background-color: lightseagreen;
-    display: inline-block;
-}
-
-.basics {
-    height: 350px;
-    width: 610px;
-    position: relative;
-    bottom: 100px;
-    background-color: black;
-    display: inline-block;
-}
-
-#footer {
-    background-color: grey;
-    height: 50px;
-    margin: 0px auto;
-    display: block;
-}
+    * {
+        margin: 0px;
+        padding: 0px;
+        border: 0px;
+    }
+    
+    #wrapper {
+        width: 970px;
+        overflow: auto;
+        background-color: #1b335d;
+        margin: auto;
+        padding: 10px;
+    }
+    
+    #header {
+        background-color: #ce3036;
+        margin-bottom: 10px;
+        height: 50px;
+        border-radius: 10px;
+        color: #c2d6eb;
+    }
+    
+    #header h2 {
+        padding: 16px;
+        color: rgb(255, 255, 255);
+    }
+    
+    #home {
+        overflow: auto;
+        background-color: rgb(8, 126, 139);
+        /* display: inline-block; */
+        margin-right: 24px;
+        border-radius: 10px;
+        padding: 20px;
+        float: left;
+    }
+    
+    #menu {
+        padding-left: 16px;
+    }
+    
+    #menu li ul {
+        padding-left: 24px;
+    }
+    
+    a {
+        color: #5ccdd4;
+    }
+    
+    #basics {
+        margin: 0px;
+        overflow: auto;
+        background-color: rgb(12, 24, 33);
+        border-radius: 10px;
+        color: #bfd5eb;
+        padding: 20px;
+    }
+    
+    #basics h2 {
+        color: #bfd5eb;
+        margin-bottom: 12px;
+    }
+    
+    #basics p {
+        color: #bfd5eb;
+        margin-bottom: 12px;
+    }
+    
+    #basics ul {
+        margin-left: 16px;
+    }
+    
+    #basics ul li {
+        padding: 8px;
+        color: #bfd5eb;
+    }
+    
+    .keywords {
+        color: blue;
+    }
+    
+    #footer {
+        background-color: grey;
+        margin-top: 10px;
+        overflow: auto;
+        border-radius: 10px;
+        color: #bbd4e1;
+        padding: 16px;
+    }
+    
+    ul {
+        color: white;
+    }
