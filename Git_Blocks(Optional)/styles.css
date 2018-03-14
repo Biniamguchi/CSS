@@ -1,0 +1,115 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.wrapper{
+    width: 925px;
+    margin: auto;
+    background-color: #DBE0D4;
+    padding: 16px;
+    /*font-family: Lucida Console;*/
+}
+.header {
+    background-color: #38b0ad;    
+    padding: 8px;
+}
+.header img{
+    width: 40px;
+    display: inline-block;
+}
+.header h1{
+    width: 200px;
+    display: inline-block;
+    vertical-align: top;
+    padding: 2px;
+}
+.header ul{
+    display: inline-block;
+    vertical-align: top;
+    padding: 10px;
+}
+.header ul li {
+    display: inline-block;    
+    margin-left: 20px;
+}
+.header ul li a{
+    color: white;
+}
+.main {
+    background-color: #fbe691;
+    margin-top: 16px;
+    padding: 14px;
+}
+.leftBox {
+    display: inline-block;
+    width: 200px;    
+    background-color: #153f43;
+    padding: 8px;
+    color: #c1c9c0;
+}
+.headingBig {
+    margin: 14px 0px;
+}
+.githubPar {
+    margin: 14px;
+}
+.rightBox {
+    display: inline-block;
+    width: 650px;
+    vertical-align: top;
+    margin-left: 2%;
+}
+.topRight {
+    display: flex;
+    margin-bottom: 7%;
+}
+.smallBox {
+    display: inline-block;
+    height: 150px;
+    background-color: #153f43;
+    color: #c1c9c0;
+    width: 30%;
+    margin: 0px 12px;
+}
+.hGit {
+    padding: 8px;
+}
+.pGit {
+    padding: 4px 25px 4px 19px;
+}
+.gitBlue {
+    color: #47ccbd;
+}
+.mediumBox {
+    display: flex;
+    margin-bottom: 7%;
+}
+.mainMed{
+    background-color: #153f43;    
+    color: #c1c9c0;
+    width: 60%;
+    margin: 0px 12px;
+    height: 150px;
+}
+.bottomBox {
+    display: flex;
+}
+.rightBottom {
+    background-color: #153f43;    
+    color: #c1c9c0;
+    width: 120%;
+    margin: 0px 12px;
+    height: 130px;
+}
+.footer {
+    background-color: #38b0ad;
+    padding: 16px;
+    text-align: center;
+    margin-top: 5px;
+}
+.footer p {
+    display: inline-block;    
+}
+.footer a {
+    display: inline-block;
+}
