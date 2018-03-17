@@ -1,0 +1,121 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+#wrapper {
+    margin: auto;
+    width: 1150px;
+    background-color: #eeeeee; 
+    padding-bottom: 10px;
+    margin: 10px;
+}
+#blueBoxs {    
+    display: inline-block;
+}
+#blueBoxs2 {    
+    display: inline-block;
+    margin-right: 10px;
+}
+#numBoxs {
+    display: inline-block;
+
+}
+#num {
+    
+    width: 50px;
+    height: 50px;    
+    text-align: center;
+    background-color: #eeeeee;
+    color: red;
+    margin: 1px 1px ;
+    padding: 3px;
+    
+}
+#bold {
+    font-weight: bold;
+    color: #2719a2;
+    font-family: arial;
+}
+#blue {
+    width: 50px;
+    height: 50px;
+    background-color: #689bff;
+    text-align: center;
+    margin: 1px 1px ;
+    padding: 3px;
+}
+#red1Boxs {
+    display: inline-block;
+}
+#red {
+    width: 50px;
+    height: 50px;
+    background-color: #fd9a98;
+    text-align: center;
+    margin: 1px 1px ;
+    padding: 3px;
+}
+#yellowBoxs {
+    display: inline-block;
+}
+#yellow {
+    width: 50px;
+    height: 50px;
+    background-color: #fecb00;
+    text-align: center;
+    margin: 1px 1px ;
+    padding: 3px;
+}
+#container {
+    display: block;
+/*    background-color: green;*/
+    display: flex;
+}
+#container2 {
+    display: block;
+/*    background-color: green;*/
+    display: flex;
+    margin-top: 20px; 
+    /*margin-bottom: 20px;*/
+}
+#leftBot {
+    display: inline-block;
+}
+#lanth {
+    display: inline-block;
+}
+#lan {
+    width: 95px;
+    height: 50px;    
+    text-align: center;
+    background-color: #eeeeee;
+    color: red;
+    margin: 1px 1px ;
+    padding: 3px;
+}
+
+#asterisk {
+    display: inline-block;
+    margin-left: 10px;
+}
+#aster {
+    width: 5px;
+    height: 50px;    
+    text-align: center;
+    background-color: #eeeeee;
+    color: red;
+    margin: 1px 1px ;
+    padding: 3px;
+    font-size: 10px;
+}
+#greenBox {
+    display: inline-block;
+}
+#green {
+    width: 50px;
+    height: 50px;
+    background-color: #1fca21;
+    text-align: center;
+    margin: 1px 1px ;
+    padding: 3px;
+}
