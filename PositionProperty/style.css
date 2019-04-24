@@ -16,12 +16,12 @@
     display: inline-block;
 }
 
-#box-1 {
+#box-1 { 
     background-color: green;
-    /* position: absolute;
-    top: 40px; */
-    position: fixed;
-    top: 40px;
+     position: absolute;
+    top: 40px; 
+    /*position: fixed;
+    top: 40px;*/
 }
 
 #box-2 {
